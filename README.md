@@ -72,4 +72,4 @@ The Habit Tracker application is developed as a learning exercise in object-orie
 
 ##  Enjoy using the Habit Tracker application!
 
-###  Do not copy or distribute without permission!
+###                                                             **Do not copy or distribute without permission!**
